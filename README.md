@@ -1,1 +1,1 @@
-Разработка REST API 
+Python
